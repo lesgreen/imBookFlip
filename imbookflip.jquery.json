@@ -1,0 +1,36 @@
+{
+"name": "imbookflip",
+"title": "imBookFlip",
+"description": "jQuery plugin for creating a book flip effect without the use of Flash.",
+"keywords": [
+"book",
+"turn",
+"flip",
+"animation"
+],
+"version": "1.3.0",
+"author": {
+"name": "Les Green",
+"url": "https://grasshopperpebbles.com/"
+},
+"maintainers": [
+{
+"name": "Les Green",
+"email": "lesgreen@grasshopperpebbles.com",
+"url": "http://grasshopperpebbles.com"
+}
+],
+"licenses": [
+{
+"type": "GNU",
+"url": "https://github.com/lesgreen/imBookFlip/blob/master/license.txt"
+}
+],
+"bugs": "https://github.com/lesgreen/imBookFlip/issues",
+"homepage": "https://github.com/lesgreen/imBookFlip",
+"docs": "http://grasshopperpebbles.com/ajax/jquery-plugin-imbookflip-page-turning-without-flash/",
+"download": "https://github.com/lesgreen/imBookFlip",
+"dependencies": {
+"jquery": ">=1.5"
+}
+}
